@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ChatMessage /> component tests. Should not regress 1`] = `
+<div
+  className={undefined}
+>
+  <div
+    className="undefined"
+  >
+    <div
+      className={undefined}
+    >
+      This is test
+    </div>
+    <div
+      className={undefined}
+    >
+      <span
+        className={undefined}
+      >
+        Tue Oct 02 2018 20:47:36
+      </span>
+    </div>
+  </div>
+  <div
+    className={undefined}
+  />
+</div>
+`;

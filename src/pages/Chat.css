@@ -1,0 +1,16 @@
+.holder
+{
+	/*height: 100vh;*/
+	display: flex;
+    flex-flow: column;
+}
+
+.messages
+{
+	height: 100%;
+}
+
+.input
+{
+	flex-basis: 100px;
+}

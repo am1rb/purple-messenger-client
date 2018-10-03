@@ -1,0 +1,9 @@
+.status
+{
+	color: #5ca04a;
+	display: inline-block;
+	width: 2.4em;
+	text-align: right;
+	position: relative;
+	font-size: 0.7em;
+}

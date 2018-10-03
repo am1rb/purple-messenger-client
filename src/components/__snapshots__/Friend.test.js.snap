@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Friend /> component tests Should has valid snapshot 1`] = `
+<a
+  className={undefined}
+  href="/friend/testId/"
+  onClick={[Function]}
+>
+  <img
+    alt="Amir"
+    className={undefined}
+    src="default-user.png"
+  />
+  <div
+    className={undefined}
+  >
+    <div
+      className={undefined}
+    >
+      Amir
+    </div>
+    <div
+      className={undefined}
+    >
+      This is last message
+    </div>
+  </div>
+</a>
+`;
+
+exports[`<Friend /> component tests Should not regress 1`] = `
+<a
+  className={undefined}
+  href="/friend/testId/"
+  onClick={[Function]}
+>
+  <img
+    alt="Amir"
+    className={undefined}
+    src="default-user.png"
+  />
+  <div
+    className={undefined}
+  >
+    <div
+      className={undefined}
+    >
+      Amir
+    </div>
+    <div
+      className={undefined}
+    >
+      This is last message
+    </div>
+  </div>
+</a>
+`;

@@ -1,0 +1,28 @@
+.button
+{
+	display: block;
+	background: #fff;
+	text-align: center;
+	color: #650059;
+	border: 1px solid #650059;
+	/*width: 100%;*/
+	padding: 0.5em 0;
+	border-radius: 2px;
+	flex-basis: 3em;
+	flex-shrink: 0;
+	cursor: pointer;
+}
+
+
+.icon
+{
+	margin: 0 5px;
+	font-size: 1.5em;
+}
+
+
+/*
+light #E50071
+
+dark #1F0043
+ */

@@ -1,0 +1,91 @@
+.holder
+{
+	/*width: 200px;*/
+}
+
+.message
+{
+	padding: 10px;
+	margin: 15px;
+	position: relative;
+	
+	max-width: 500px;
+	/*flex-basis: 60%;
+    max-width: 60%;*/
+
+    /*overflow: hidden;*/
+	
+}
+
+
+.message_me
+{
+	float: right;
+	background: #e2ffc7;
+}
+
+
+.text
+{
+	margin-bottom: 5px;
+	word-wrap: break-word;
+}
+
+.message_friend
+{
+	float: left;	
+	background: #fff;
+}
+
+.clr
+{
+	display: block;
+	clear: both;
+}
+
+.date
+{
+	display: inline-block;
+	font-size: 0.9em;
+}
+
+.message_me .date
+{
+	color: #5ca04a;
+}
+
+.message_friend
+{
+	float: left;	
+	background: #fff;
+}
+
+
+.message_friend .date
+{
+	color: #a1aab3;
+}
+
+/*
+
+	
+
+	
+
+
+	.textarea
+	{
+		height: 15vh;	
+		width: 100%;
+		direction: rtl;
+		text-align: right;
+		font-family: Vazir;
+		padding: 10px;
+	}
+
+	.send-button
+	{
+		height: 5vh;	
+		width: 100%;
+	}
+ */

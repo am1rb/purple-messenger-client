@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FormSubmit /> component tests Should not regress 1`] = `
+<button
+  type="submit"
+>
+  Button
+</button>
+`;

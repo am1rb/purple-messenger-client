@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Loading /> component tests Should not regress 1`] = `
+<div
+  className={undefined}
+>
+  loading...
+</div>
+`;

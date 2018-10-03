@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IsTyping /> component tests Should not regress 1`] = `
+<span
+  className={undefined}
+>
+  is typing...
+</span>
+`;

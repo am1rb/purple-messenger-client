@@ -1,0 +1,14 @@
+.holder
+{
+	background: #fff;
+	border-color: #e6e6e6;
+	border-style: solid;
+	border-width: 0 1px;
+	display: flex;
+	flex-direction: column;
+}
+
+.add
+{
+	margin: 0.5em;
+}

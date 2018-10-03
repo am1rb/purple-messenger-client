@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ChatMessageStatus /> component tests Should  matches to received snapshot 1`] = `
+<span
+  className={undefined}
+>
+  <i
+    className="fa fa-check"
+  />
+  <i
+    className="fa fa-check"
+  />
+</span>
+`;
+
+exports[`<ChatMessageStatus /> component tests Should matches to pending snapshot 1`] = `
+<span
+  className={undefined}
+>
+  <i
+    className="far fa-clock"
+  />
+</span>
+`;

@@ -1,0 +1,48 @@
+
+.candidate, .friend
+{
+	padding: 10px 10px;
+	display: flex;
+}
+
+.friend:hover
+{
+	background: #e9e9e9;
+}
+
+.friendImage
+{
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	/*margin-right: 10px;*/
+}
+
+.friendInfo
+{
+	width: 100%;
+	margin: 0 1em;
+}
+
+.candidate
+{
+	cursor: pointer;
+}
+
+.candidateInfo
+{
+	/*display: flex;*/
+	margin: 0 1em;
+	/*position: relative;*/
+	width: 100%;
+}
+
+.addIcon
+{
+	margin: 0 0.5em;
+}
+
+.disabled
+{
+	cursor: default;
+}
