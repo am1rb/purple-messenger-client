@@ -28,6 +28,7 @@ describe("<Login /> component tests", () => {
 
 		const component = mount(
 			<Login
+				onSuccess={() => {}}
 				onError={done}
 			/>
 		)
